@@ -144,9 +144,10 @@ const About = () => {
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.estilos.com.pe/">a Retail Company</a>,{' '}
               <a href="https://www.grupolucky.com/">a trademarketing department within the corporate group</a>,{' '}
-              <a href="https://www.ima.pe/">a market research company</a> My
-              main focus these days is  to improve my skills and learn new technologies.
+              <a href="https://www.ima.pe/">a market research company</a> 
             </p>
+
+            <p>My main focus these days is to improve my skills and learn new technologies.</p>
 
             <p>
               Ready to unlock the hidden insights in your data?{' '}
