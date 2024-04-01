@@ -79,7 +79,7 @@ const Hero = () => {
       href="https://www.youtube.com/@DataforBreakfast"
       target="_blank"
       rel="noreferrer">
-      Check out my class!
+      Check out my channel!
     </a>
   );
 
