@@ -7,7 +7,8 @@ range: 'Ago 2023 - Apr 2024'
 url: 'https://www.ima.pe/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Utilized Excel, IBM SPSS, and Python for advanced statistical analysis, generating key insights that informed clients' strategies.
+- Developed insightful visualizations using Excel, Power BI, and other tools, providing clients with a clear and deep understanding of the data.
+- Automated the data collection process using Power Automate, reducing time and errors.
+- Conducted market research using qualitative and quantitative methods to inform strategic decisions, collaborating with interdisciplinary teams to ensure relevance and accuracy of findings.
+- Presented findings and recommendations convincingly to key stakeholders, using attractive visual formats to enhance understanding and decision-making.
